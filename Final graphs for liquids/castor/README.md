@@ -1,2 +1,2 @@
 # Final Graphs
-This folder contains all the final graphs for three different liquids and their corresponding ball sizes.
+This folder contains all the final graphs for castor oil and its corresponding ball sizes.
